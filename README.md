@@ -1,2 +1,3 @@
 # Libft
-A usual c standard functions library
+A usual C standard functions library
+
